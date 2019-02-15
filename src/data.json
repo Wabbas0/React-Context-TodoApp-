@@ -1,0 +1,14 @@
+{
+  "user": {
+    "username": "wg75",
+    "country": "Egypt",
+    "email": "waleed.gamal1000@gmail.com",
+    "statistics": { "numberOfTodos": 100, "completed": 50, "uncopmleted": 50 },
+    "password": "102030"
+  },
+  "todos": [
+    { "id": 123876, "content": "Working out", "completed": false },
+    { "id": 123565, "content": "Shuffle dancing", "completed": true },
+    { "id": 123456, "content": "Reading a book", "completed": false }
+  ]
+}
